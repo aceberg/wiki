@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/watchyourlan/index.html</loc>
+    <loc>http://localhost:1313/anyappstart/index.html</loc>
     <lastmod>2025-07-28T21:39:45+07:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/log/index.html</loc>
-    <lastmod>2025-07-28T21:18:39+07:00</lastmod>
+    <loc>http://localhost:1313/forauth/index.html</loc>
+    <lastmod>2025-07-28T23:32:33+07:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/categories/index.html</loc>
+    <loc>http://localhost:1313/anyappstart/faq/index.html</loc>
+    <lastmod>2025-07-28T21:39:45+07:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/tags/index.html</loc>
+    <loc>http://localhost:1313/forauth/faq/index.html</loc>
+    <lastmod>2025-07-28T21:39:45+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/watchyourlan/faq/index.html</loc>
+    <lastmod>2025-07-28T21:39:45+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/watchyourlan/index.html</loc>
+    <lastmod>2025-07-28T21:39:45+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/anyappstart/api/index.html</loc>
+    <lastmod>2025-07-28T21:39:37+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/forauth/api/index.html</loc>
+    <lastmod>2025-07-28T21:39:37+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/watchyourlan/api/index.html</loc>
+    <lastmod>2025-07-28T21:39:37+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc>
   </url>
 </urlset>
