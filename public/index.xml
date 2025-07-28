@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My wiki</title>
+    <link>https://example.org/index.html</link>
+    <description>This is your new home page.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jul 2025 21:39:45 +0700</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WatchYourLAN</title>
+      <link>https://example.org/watchyourlan/index.html</link>
+      <pubDate>Mon, 28 Jul 2025 21:39:45 +0700</pubDate>
+      <guid>https://example.org/watchyourlan/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Log</title>
+      <link>https://example.org/log/index.html</link>
+      <pubDate>Mon, 28 Jul 2025 21:18:39 +0700</pubDate>
+      <guid>https://example.org/log/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+  </channel>
+</rss>
