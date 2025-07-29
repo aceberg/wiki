@@ -1,5 +1,13 @@
 var relearn_searchindex = [
   {
+    "breadcrumb": "Aceberg's wiki \u003e AnyAppStart",
+    "content": "Main page Item",
+    "description": "Main page Item",
+    "tags": [],
+    "title": "Screenshots",
+    "uri": "/wiki/anyappstart/screenshots/index.html"
+  },
+  {
     "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
     "content": "Main page (light theme) History Grafana dashboard example",
     "description": "Main page (light theme) History Grafana dashboard example",
