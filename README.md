@@ -23,8 +23,4 @@ In `hugo.toml`:
 relativeURLs = false
 ```
 
-Next:
-```bash
-hugo -d docs
-```
 Next push to GitHub
