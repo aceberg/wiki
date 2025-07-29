@@ -14,3 +14,8 @@ theme = 'hugo-theme-relearn'
     name = '<i class="fa-brands fa-github"></i>&nbsp;&nbsp;GitHub'
     url = 'https://github.com/aceberg'
     weight = 1
+
+[outputs]
+  home = ['html', 'rss', 'print']
+  page = ['html', 'rss', 'print']
+  section = ['html', 'rss', 'print']

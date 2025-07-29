@@ -1,7 +1,7 @@
 +++
 title = "AnyAppStart"
 type = "section"
-weight = 1
+weight = 10
 chapter = true
 
 [params]

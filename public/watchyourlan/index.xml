@@ -20,7 +20,7 @@
       <link>http://localhost:1313/watchyourlan/api/index.html</link>
       <pubDate>Mon, 28 Jul 2025 21:39:37 +0700</pubDate>
       <guid>http://localhost:1313/watchyourlan/api/index.html</guid>
-      <description>API</description>
+      <description>GET /api/all Returns all hosts in json.&#xA;GET /api/history Returns all History. Not recommended, the output can be a lot.&#xA;GET /api/history/:mac/:date Returns only history of a device with this mac filtered by date. date format can be anything from 2 to 2025-07 to 2025-07-26.&#xA;GET /api/history/:mac?num=20 Returns only last 20 lines of history of a device with this mac.&#xA;GET /api/host/:id Returns host with this id in json.&#xA;GET /api/port/:addr/:port Gets state of one port of addr. Returns true if port is open or false otherwise. Request example:</description>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 title = "WatchYourLAN"
 type = "section"
 chapter = true
-weight = 4
+weight = 30
 
 [params]
   collapsibleMenu = true
