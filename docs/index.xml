@@ -25,9 +25,9 @@
     <item>
       <title>WatchYourLAN</title>
       <link>https://aceberg.github.io/wiki/watchyourlan/index.html</link>
-      <pubDate>Mon, 28 Jul 2025 21:39:45 +0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aceberg.github.io/wiki/watchyourlan/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>Lightweight network IP scanner with web GUI. Features:&#xA;Send notification when new host is found Monitor hosts online/offline history Keep a list of all hosts in the network Send data to InfluxDB2 or Prometheus to make a Grafana dashboard</description>
     </item>
   </channel>
 </rss>

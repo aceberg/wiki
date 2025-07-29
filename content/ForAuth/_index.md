@@ -5,6 +5,5 @@ weight = 20
 chapter = true
 
 [params]
-  collapsibleMenu = true
   menuPre = '&nbsp;<i class="fa-solid fa-key"></i>&nbsp;&nbsp;'
 +++

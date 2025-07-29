@@ -6,7 +6,6 @@
     <description>GET /api/all Returns all hosts in json.&#xA;GET /api/history Returns all History. Not recommended, the output can be a lot.&#xA;GET /api/history/:mac/:date Returns only history of a device with this mac filtered by date. date format can be anything from 2 to 2025-07 to 2025-07-26.&#xA;GET /api/history/:mac?num=20 Returns only last 20 lines of history of a device with this mac.&#xA;GET /api/host/:id Returns host with this id in json.&#xA;GET /api/port/:addr/:port Gets state of one port of addr. Returns true if port is open or false otherwise. Request example:</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="https://aceberg.github.io/wiki/watchyourlan/api/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

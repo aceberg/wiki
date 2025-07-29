@@ -1,5 +1,13 @@
 var relearn_searchindex = [
   {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
+    "content": "Main page (light theme) History Grafana dashboard example",
+    "description": "Main page (light theme) History Grafana dashboard example",
+    "tags": [],
+    "title": "Screenshots",
+    "uri": "/wiki/watchyourlan/screenshots/index.html"
+  },
+  {
     "breadcrumb": "Aceberg's wiki \u003e AnyAppStart",
     "content": "FAQ",
     "description": "FAQ",
@@ -14,6 +22,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "FAQ",
     "uri": "/wiki/forauth/faq/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
+    "content": "Replace $YOURTIMEZONE with correct time zone and $YOURIFACE with network interface you want to scan. Network mode must be host. Set $DOCKERDATAPATH for container to save data:\n​ sh docker run --name wyl \\ -e \"IFACES=$YOURIFACE\" \\ -e \"TZ=$YOURTIMEZONE\" \\ --network=\"host\" \\ -v $DOCKERDATAPATH/wyl:/data/WatchYourLAN \\ aceberg/watchyourlan Web GUI should be at http://localhost:8840",
+    "description": "Replace $YOURTIMEZONE with correct time zone and $YOURIFACE with network interface you want to scan. Network mode must be host. Set $DOCKERDATAPATH for container to save data:\n​ sh docker run --name wyl \\ -e \"IFACES=$YOURIFACE\" \\ -e \"TZ=$YOURTIMEZONE\" \\ --network=\"host\" \\ -v $DOCKERDATAPATH/wyl:/data/WatchYourLAN \\ aceberg/watchyourlan Web GUI should be at http://localhost:8840",
+    "tags": [],
+    "title": "Quick Start",
+    "uri": "/wiki/watchyourlan/quick-start/index.html"
   },
   {
     "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
@@ -65,8 +81,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Aceberg's wiki",
-    "content": "This is a new chapter.",
-    "description": "This is a new chapter.",
+    "content": "Lightweight network IP scanner with web GUI. Features:\nSend notification when new host is found Monitor hosts online/offline history Keep a list of all hosts in the network Send data to InfluxDB2 or Prometheus to make a Grafana dashboard",
+    "description": "Lightweight network IP scanner with web GUI. Features:\nSend notification when new host is found Monitor hosts online/offline history Keep a list of all hosts in the network Send data to InfluxDB2 or Prometheus to make a Grafana dashboard",
     "tags": [],
     "title": "WatchYourLAN",
     "uri": "/wiki/watchyourlan/index.html"
