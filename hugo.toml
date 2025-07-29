@@ -3,6 +3,7 @@ relativeURLs = false
 languageCode = 'en-us'
 title = "Aceberg's wiki"
 theme = 'hugo-theme-relearn'
+enableGitInfo = true
 
 [params]
   alwaysopen = false  # default collapsed sidebar behavior
