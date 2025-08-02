@@ -8,14 +8,6 @@ var relearn_searchindex = [
     "uri": "/wiki/anyappstart/screenshots/index.html"
   },
   {
-    "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
-    "content": "Main page (light theme) History Grafana dashboard example",
-    "description": "Main page (light theme) History Grafana dashboard example",
-    "tags": [],
-    "title": "Screenshots",
-    "uri": "/wiki/watchyourlan/screenshots/index.html"
-  },
-  {
     "breadcrumb": "Aceberg's wiki \u003e AnyAppStart",
     "content": "FAQ",
     "description": "FAQ",
@@ -24,12 +16,100 @@ var relearn_searchindex = [
     "uri": "/wiki/anyappstart/faq/index.html"
   },
   {
+    "breadcrumb": "Aceberg's wiki \u003e Exercise Diary",
+    "content": "FAQ",
+    "description": "FAQ",
+    "tags": [],
+    "title": "FAQ",
+    "uri": "/wiki/exercise-diary/faq/index.html"
+  },
+  {
     "breadcrumb": "Aceberg's wiki \u003e ForAuth",
     "content": "FAQ",
     "description": "FAQ",
     "tags": [],
     "title": "FAQ",
     "uri": "/wiki/forauth/faq/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourPorts",
+    "content": "FAQ",
+    "description": "FAQ",
+    "tags": [],
+    "title": "FAQ",
+    "uri": "/wiki/watchyourports/faq/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e AnyAppStart",
+    "content": "API",
+    "description": "API",
+    "tags": [],
+    "title": "API",
+    "uri": "/wiki/anyappstart/api/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e Exercise Diary",
+    "content": "API",
+    "description": "API",
+    "tags": [],
+    "title": "API",
+    "uri": "/wiki/exercise-diary/api/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e ForAuth",
+    "content": "API",
+    "description": "API",
+    "tags": [],
+    "title": "API",
+    "uri": "/wiki/forauth/api/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourPorts",
+    "content": "API",
+    "description": "API",
+    "tags": [],
+    "title": "API",
+    "uri": "/wiki/watchyourports/api/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki",
+    "content": "This is a new chapter.",
+    "description": "This is a new chapter.",
+    "tags": [],
+    "title": "AnyAppStart",
+    "uri": "/wiki/anyappstart/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN \u003e Install",
+    "content": "FAQ",
+    "description": "FAQ",
+    "tags": [],
+    "title": "Docker",
+    "uri": "/wiki/watchyourlan/install/docker/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
+    "content": "Main page (light theme) History Grafana dashboard example",
+    "description": "Main page (light theme) History Grafana dashboard example",
+    "tags": [],
+    "title": "Screenshots",
+    "uri": "/wiki/watchyourlan/screenshots/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Exercise Diary",
+    "uri": "/wiki/exercise-diary/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN \u003e Install",
+    "content": "FAQ",
+    "description": "FAQ",
+    "tags": [],
+    "title": "Bianry",
+    "uri": "/wiki/watchyourlan/install/binary/index.html"
   },
   {
     "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
@@ -41,6 +121,22 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Install",
+    "uri": "/wiki/watchyourlan/install/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki",
+    "content": "Lightweight network IP scanner with web GUI. Features:\nSend notification when new host is found Monitor hosts online/offline history Keep a list of all hosts in the network Send data to InfluxDB2 or Prometheus to make a Grafana dashboard Content Screenshots Quick Start FAQ API",
+    "description": "Lightweight network IP scanner with web GUI. Features:\nSend notification when new host is found Monitor hosts online/offline history Keep a list of all hosts in the network Send data to InfluxDB2 or Prometheus to make a Grafana dashboard Content Screenshots Quick Start FAQ API",
+    "tags": [],
+    "title": "WatchYourLAN",
+    "uri": "/wiki/watchyourlan/index.html"
+  },
+  {
+    "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
     "content": "FAQ",
     "description": "FAQ",
     "tags": [],
@@ -48,20 +144,12 @@ var relearn_searchindex = [
     "uri": "/wiki/watchyourlan/faq/index.html"
   },
   {
-    "breadcrumb": "Aceberg's wiki \u003e AnyAppStart",
-    "content": "API",
-    "description": "API",
+    "breadcrumb": "Aceberg's wiki",
+    "content": "",
+    "description": "",
     "tags": [],
-    "title": "API",
-    "uri": "/wiki/anyappstart/api/index.html"
-  },
-  {
-    "breadcrumb": "Aceberg's wiki \u003e ForAuth",
-    "content": "API",
-    "description": "API",
-    "tags": [],
-    "title": "API",
-    "uri": "/wiki/forauth/api/index.html"
+    "title": "WatchYourPorts",
+    "uri": "/wiki/watchyourports/index.html"
   },
   {
     "breadcrumb": "Aceberg's wiki \u003e WatchYourLAN",
@@ -70,30 +158,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "API",
     "uri": "/wiki/watchyourlan/api/index.html"
-  },
-  {
-    "breadcrumb": "Aceberg's wiki",
-    "content": "This is a new chapter.",
-    "description": "This is a new chapter.",
-    "tags": [],
-    "title": "AnyAppStart",
-    "uri": "/wiki/anyappstart/index.html"
-  },
-  {
-    "breadcrumb": "Aceberg's wiki",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "ForAuth",
-    "uri": "/wiki/forauth/index.html"
-  },
-  {
-    "breadcrumb": "Aceberg's wiki",
-    "content": "Lightweight network IP scanner with web GUI. Features:\nSend notification when new host is found Monitor hosts online/offline history Keep a list of all hosts in the network Send data to InfluxDB2 or Prometheus to make a Grafana dashboard",
-    "description": "Lightweight network IP scanner with web GUI. Features:\nSend notification when new host is found Monitor hosts online/offline history Keep a list of all hosts in the network Send data to InfluxDB2 or Prometheus to make a Grafana dashboard",
-    "tags": [],
-    "title": "WatchYourLAN",
-    "uri": "/wiki/watchyourlan/index.html"
   },
   {
     "breadcrumb": "Aceberg's wiki",
