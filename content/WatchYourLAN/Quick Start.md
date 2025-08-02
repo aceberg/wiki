@@ -1,6 +1,6 @@
 +++
 title = 'Quick Start'
-weight = 2
+weight = 20
 
 +++
 

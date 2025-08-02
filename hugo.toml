@@ -1,5 +1,5 @@
 baseURL = 'https://aceberg.github.io/wiki/'
-relativeURLs = false
+#relativeURLs = false
 languageCode = 'en-us'
 title = "Aceberg's wiki"
 theme = 'hugo-theme-relearn'
