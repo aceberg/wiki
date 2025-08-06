@@ -1,8 +1,8 @@
 +++
-title = "Install"
+title = "Config"
 type = "section"
 chapter = true
-weight = 20
+weight = 30
 
 +++
 
